@@ -44,9 +44,9 @@ This project is an interactive assistant for analyzing academic research papers 
 
 4. The Gradio interface will launch locally or via public link (if `share=True` is enabled).
 
-[!reuslt](/assets/t1.png)
+![reuslt](/assets/t1.png)
 
-[!reuslt](/assets/t2.png)
+![reuslt](/assets/t2.png)
 
 ---
 
@@ -60,7 +60,7 @@ This project is an interactive assistant for analyzing academic research papers 
 
 ## Output Includes
 
-[!reuslt](/assets/result.png)
+![reuslt](/assets/result.png)
 
 * Clear explanation of the research focus
 * Summarized key papers with relevance
