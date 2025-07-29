@@ -39,7 +39,7 @@ This project is an interactive assistant for analyzing academic research papers 
 3. **Run the app**:
 
    ```bash
-   python your_script.py
+   python main.py
    ```
 
 4. The Gradio interface will launch locally or via public link (if `share=True` is enabled).
